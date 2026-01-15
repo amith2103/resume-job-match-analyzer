@@ -231,3 +231,41 @@ streamlit run app.py
 
 ▪️Deployment on Streamlit Cloud
 
+---
+
+## ⭐ Final Note
+
+This project showcases:
+
+☑️Practical NLP
+
+☑️Clean Python architecture
+
+☑️Full-stack thinking
+
+☑️AI-assisted development
+
+☑️Real-world problem solving
+
+---
+
+## 👨‍💻 Author
+
+### Amith Chandra Thota
+
+▪️Built as part of a focused portfolio strategy to showcase:
+
+▪️Python application development
+
+▪️NLP-based text analysis (TF-IDF & cosine similarity)
+
+▪️Resume–job matching logic and skill gap analysis
+
+▪️Data persistence using SQLite
+
+▪️Interactive UI development with Streamlit
+
+📌 GitHub: https://github.com/amith2103
+
+📌 LinkedIn: https://linkedin.com/in/amithtengineer
+
